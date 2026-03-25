@@ -25,6 +25,8 @@ const corsOptions = {
     "https://p-search-assistant.netlify.app",
     "https://p-search-ai.firebaseapp.com",
     "https://p-search-ai.web.app",
+    "https://p-search-assistant1v.netlify.app/",
+    "https://iqraproject846-dev.github.io/frontent-p-search-ai/",
   ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
