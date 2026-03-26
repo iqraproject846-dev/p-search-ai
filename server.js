@@ -83,6 +83,9 @@ app.use((req, res) => {
   res.status(404).json({ error: `Route not found: ${req.method} ${req.url}` });
 });
 
+
+
+
 // ── Global Error Handler ───────────────────────────────────
 app.use((err, req, res, next) => {
   console.error("❌ Unhandled error:", err);
