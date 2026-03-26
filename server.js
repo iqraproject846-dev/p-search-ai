@@ -28,7 +28,8 @@ const corsOptions = {
     "https://p-search-assistant1v.netlify.app",
     "https://iqraproject846-dev.github.io/frontent-p-search-ai",
     "https://p-search-aii.netlify.app",
-    "https://p-serach-assistant-2v.netlify.app"
+    "https://p-serach-assistant-2v.netlify.app",
+    "https://pppp1122.netlify.app"
   ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
