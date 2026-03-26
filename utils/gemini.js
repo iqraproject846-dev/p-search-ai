@@ -10,6 +10,9 @@ const API_KEYS = [
   process.env.GEMINI_KEY_5,
   process.env.GEMINI_KEY_6,
   process.env.GEMINI_KEY_7,
+  process.env.GEMINI_KEY_8,  // ← ADD
+  process.env.GEMINI_KEY_9,  // ← ADD
+
 ].filter(Boolean);
 
 let currentKeyIndex = 0;
